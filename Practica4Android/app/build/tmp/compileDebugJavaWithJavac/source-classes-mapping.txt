@@ -1,0 +1,27 @@
+com/dss/practica4android/ui/dashboard/DashboardFragment.java
+ com.dss.practica4android.ui.dashboard.DashboardFragment
+ com.dss.practica4android.ui.dashboard.DashboardFragment$1
+com/dss/practica4android/BuildConfig.java
+ com.dss.practica4android.BuildConfig
+com/dss/practica4android/ui/home/HomeViewModel.java
+ com.dss.practica4android.ui.home.HomeViewModel
+com/dss/practica4android/ui/notifications/NotificationsViewModel.java
+ com.dss.practica4android.ui.notifications.NotificationsViewModel
+com/dss/practica4android/ui/notifications/NotificationsFragment.java
+ com.dss.practica4android.ui.notifications.NotificationsFragment
+ com.dss.practica4android.ui.notifications.NotificationsFragment$1
+com/dss/practica4android/ui/dashboard/DashboardViewModel.java
+ com.dss.practica4android.ui.dashboard.DashboardViewModel
+com/dss/practica4android/MainActivity.java
+ com.dss.practica4android.MainActivity
+com/dss/practica4android/databinding/FragmentNotificationsBinding.java
+ com.dss.practica4android.databinding.FragmentNotificationsBinding
+com/dss/practica4android/ui/home/HomeFragment.java
+ com.dss.practica4android.ui.home.HomeFragment
+ com.dss.practica4android.ui.home.HomeFragment$1
+com/dss/practica4android/databinding/ActivityMainBinding.java
+ com.dss.practica4android.databinding.ActivityMainBinding
+com/dss/practica4android/databinding/FragmentDashboardBinding.java
+ com.dss.practica4android.databinding.FragmentDashboardBinding
+com/dss/practica4android/databinding/FragmentHomeBinding.java
+ com.dss.practica4android.databinding.FragmentHomeBinding

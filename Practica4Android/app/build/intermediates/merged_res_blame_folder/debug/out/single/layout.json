@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dashboard.xml",
+        "source": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_notifications.xml",
+        "source": "C:\\Users\\alexe\\source\\repos\\Univer\\dss\\Practica4Android\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    }
+]
